@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "ip.irino.sbs",
+            "address": "www.speedtest.net",
             "port": 2096,
             "users": [
               {
